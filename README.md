@@ -1,3 +1,3 @@
-# Mapper
+# DataMapper
 
-Mapper is used to visualize any data with location info on Google Maps
+DataMapper is used to visualize any data with location info on Google Maps
